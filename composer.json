@@ -1,0 +1,24 @@
+{
+    "name": "simple-csv-importer/simple-csv-importer",
+    "description": "Library for reading simple format csv files",
+    "homepage": "https://github.com/matsubara-seiya/SimpleCsvImporter",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SimpleCsvImporter\\ABC\\": "src/abc/",
+            "SimpleCsvImporter\\Exceptions\\": "src/exceptions/"
+        }
+    },
+    "require": {
+        "php": "^7.0",
+        "laravel/framework": "5.6.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "m.seiya",
+            "email": "m.seiya.0928@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
