@@ -40,7 +40,7 @@ abstract class SimpleCsvImporterABC {
     protected $modelColumns = [];
 
     /**
-     * SplFileObjectのフラグにセットする設定
+     * Flags to set for SplFileObject
      * @var int
      */
     protected $splFileObjectFlags;
