@@ -1,7 +1,7 @@
 {
     "name": "simple-csv-importer/simple-csv-importer",
     "description": "Library for reading simple format csv files",
-    "homepage": "https://github.com/matsubara-seiya/SimpleCsvImporter",
+    "homepage": "https://github.com/m-seiya09/SimpleCsvImporter",
     "type": "library",
     "autoload": {
         "psr-4": {
