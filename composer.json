@@ -11,7 +11,7 @@
     },
     "require": {
         "php": ">7.0",
-        "laravel/laravel": ">6.0.0"
+        "laravel/framework": ">6.0.0"
     },
     "license": "MIT",
     "authors": [
